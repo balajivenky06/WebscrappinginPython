@@ -8,5 +8,7 @@ Beautiful Soup is a Python library for pulling data out of HTML and XML files. I
 
 This project aims to scrap normal & HD images from facebook page for particular search string using above mentionied libraries i.e. Selenium and BeautifulSoup
 
-Here we use chrome driver to surf the required URL and to navigae each pages
+Here we use chrome driver to surf the required URL and to navigae each pages...
+
+assignment.ipnb python notebook contains the code and also zip file contains chrome driver. User has to keep this driver in the same path where this code has been saved and then execute it to work properly...
 
